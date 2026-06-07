@@ -145,22 +145,26 @@ Insights:
 ```bash
 India-General-Election-Analysis/
 
-├── data/
+├── Datasets/
+│   ├── final_processed_election_data.csv
+│   └── working_data_IGE.csv
 │
-├── notebooks/
+├── Notebook/
 │   └── IGE.ipynb
 │
-├── dashboard/
+├── Power BI/
 │   └── IGE_Analysis.pbix
 │
-├── screenshots/
-│   ├── executive_dashboard.png
-│   ├── risk_analysis.png
-│   ├── turnout_analysis.png
-│   └── party_analysis.png
+├── images/
+│    ├──dashboards/
+│     ├── executive_dashboard.png
+│     ├── risk_analysis.png
+│     ├── turnout_analysis.png
+│     └── party_analysis.png
+│    └── other images
 │
-├── README.md
-└── requirements.txt
+└── README.md
+ 
 ```
 
 ---
